@@ -51,7 +51,7 @@ VALUES
 
 -- 8. Mengisi data contoh pada tabel 'transaksi'
 INSERT INTO transaksi (tgl_jual, id_produk, member_id, nama_produk, harga, qty)
-VALUES ('ID-01', 'webmaster', 'Admin', '8000-01-01', 15);
+VALUES ('ID-01', 'webmaster', 'Admin', '2004-02-02', 02);
 
 -- mengakses isi data pada tabel member
 SELECT * FROM member;
