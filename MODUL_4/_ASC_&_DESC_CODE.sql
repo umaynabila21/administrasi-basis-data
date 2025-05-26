@@ -1,5 +1,5 @@
--- Nama		: erna wat1
--- NIM		: 23241057
+-- Nama		: UMAY NABILA
+-- NIM		: 23241056
 -- Kelas	: PTI 4/B 
 -- Modul	: ORDER BY, Fungsi Agresasi, GRUP BY, HAVING
 
